@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "map-uk"
-version = "0.0.0-dev"
+version = "0.0.0"
 description = "Quickly create maps of the UK in Python"
 authors = ["Jordan Pinder <jordan.pinder.dev@gmail.com>"]
 repository = "https://github.com/jap546/map-uk"
