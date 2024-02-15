@@ -109,7 +109,7 @@ m.save(constants.Paths.STATIC_DIR / "map4_tooltip.html")
 ```
 
 # Install
-For non-DAP users, this assumes you have installed [pyenv](https://github.com/pyenv/pyenv) and [poetry](https://python-poetry.org/docs/#installing-with-the-official-installer).
+This assumes you have installed [pyenv](https://github.com/pyenv/pyenv) and [poetry](https://python-poetry.org/docs/#installing-with-the-official-installer).
 
 First ensure you have a supported Python version installed on your machine:
 ```bash
