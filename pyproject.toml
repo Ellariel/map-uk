@@ -5,9 +5,9 @@ description = "Quickly create maps of the UK in Python"
 authors = ["Jordan Pinder <jordan.pinder.dev@gmail.com>"]
 repository = "https://github.com/jap546/map-uk"
 readme = "README.md"
+include = ["data"]
 packages = [
-  {include = "map_uk"},
-  {include = "data"}
+  {include = "map_uk"}
 ]
 
 [tool.poetry.dependencies]
