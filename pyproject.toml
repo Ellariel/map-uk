@@ -8,6 +8,9 @@ readme = "README.md"
 packages = [
   {include = "map_uk"}
 ]
+include = [
+    {path = "data"}
+]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.12"
