@@ -6,10 +6,8 @@ authors = ["Jordan Pinder <jordan.pinder.dev@gmail.com>"]
 repository = "https://github.com/jap546/map-uk"
 readme = "README.md"
 packages = [
-  {include = "map_uk"}
-]
-include = [
-    {path = "data"}
+  {include = "map_uk"},
+  {include = "data"}
 ]
 
 [tool.poetry.dependencies]
